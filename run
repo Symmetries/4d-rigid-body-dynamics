@@ -1,0 +1,1 @@
+npx tsc -t ES2015 -w src/*.ts -OutDir public/
