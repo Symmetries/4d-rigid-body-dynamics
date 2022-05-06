@@ -11,7 +11,7 @@ You will need `node.js` and `tsc` to transpile this project.
 The commands to transpile are in the file `run.sh` (you can remove the `-w` flag as that's only for development).
 The project is already transpiled, however.
 To view the project, you will need a simple web server.
-If you have Python 3 installed, you can simply move to the `public` folder and then run:
+If you have Python 3 installed, you can simply move to the `docs` folder and then run:
 ```
 python3 -m http.server 8080
 ```
